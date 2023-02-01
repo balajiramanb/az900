@@ -1,0 +1,14 @@
+services:
+storage ,computer power, networking ,analysitics 
+
+charactristics
+scalability : vertical scalability,horizontal scalability. allocating/deallocating resource or instance
+Elasticity	: automatic scalling .dynamic scalling 
+agility : ability to react quickly . ability to do scalability quickly 
+fault tollarance : remain up and running in case of component or service failure .disaster recovery 
+high availablity : measure of system updative for user/service , extended period with little down time
+
+
+Principle of economies of scale
+
+
